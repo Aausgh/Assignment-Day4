@@ -1,0 +1,26 @@
+caption{
+    margin: 2px;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    width: 800px;
+    height: 20px;
+    margin: auto;
+
+}
+
+#yellow-color{
+    background-color: yellow;
+}
+#orange-color{
+    background-color: orange;
+}
+#green-color{
+    background-color: green;
+}
+#blue-color{
+    background-color: blue;
+}
